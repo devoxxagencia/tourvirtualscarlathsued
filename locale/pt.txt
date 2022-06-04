@@ -26,11 +26,14 @@ panorama_26AEF279_2CF8_A4C0_4195_1AE9E0660188.label = IMG_20220530_092247_00_mer
 panorama_27A82060_2CF8_E4C0_41B6_73CF29AAA1A2.label = Aeréa - Scarlath Estética-SharpenAI
 video_3D838787_2CF8_AC40_41B0_C4F0355DCD9A.label = WhatsApp Video 2022-05-30 at 20.38.29
 video_3E301657_2D0B_6CC0_41A1_01B6124E7EA0.label = WhatsApp Video 2022-05-30 at 20.38.27
+video_3FE47B30_30F4_B425_41B9_1D3A4C1F1C7A.label = WhatsApp Video 2022-06-04 at 19.54.18
 
 ## Popup
 
 ### Body
 htmlText_3D2EFF54_2D56_FE4D_41A3_9EC4F2736282.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:13px;">A radiofrequência é um tratamento estético utilizado no combate à flacidez do rosto ou do corpo, sendo muito eficaz para eliminar rugas, linhas de expressão e até mesmo a gordura localizada e também a celulite, sendo um método seguro com efeitos duradouros.<BR/></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:13px;">O aparelho de radiofrequência eleva a temperatura da pele e do músculo, promovendo a contração do colágeno e favorecendo a produção de mais fibras de colágeno e elastina, dando mais sustentação e firmeza à pele. Os resultados podem ser observados nos</SPAN><SPAN STYLE="font-size:13px;"> primeiros dias logo após a primeira sessão e o resultado é progressivo, e por isso, quantos mais sessões, a pessoa fizer, maiores e melhores serão os resultados.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_3EA6E296_310C_D4ED_4195_A091DAB91C15.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_3FB038D4_30F7_B46D_41C1_396483E128F0.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 
 ## Action
 

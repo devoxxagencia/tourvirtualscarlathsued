@@ -1,14 +1,18 @@
 {
+ "name": "Scarlath Sued Centro De Estética - Tour Virtual 360º",
+ "start_url": "index.htm",
+ "theme_color": "#CC00FF",
+ "background_color": "#CC00FF",
  "icons": [
   {
    "type": "image/png",
-   "sizes": "512x512",
-   "src": "misc/icon512.png"
+   "sizes": "150x150",
+   "src": "misc/icon150.png"
   },
   {
    "type": "image/png",
-   "sizes": "192x192",
-   "src": "misc/icon192.png"
+   "sizes": "16x16",
+   "src": "misc/icon16.png"
   },
   {
    "type": "image/png",
@@ -17,13 +21,8 @@
   },
   {
    "type": "image/png",
-   "sizes": "150x150",
-   "src": "misc/icon150.png"
-  },
-  {
-   "type": "image/png",
-   "sizes": "64x64",
-   "src": "misc/icon64.png"
+   "sizes": "192x192",
+   "src": "misc/icon192.png"
   },
   {
    "type": "image/png",
@@ -32,13 +31,14 @@
   },
   {
    "type": "image/png",
-   "sizes": "16x16",
-   "src": "misc/icon16.png"
+   "sizes": "512x512",
+   "src": "misc/icon512.png"
+  },
+  {
+   "type": "image/png",
+   "sizes": "64x64",
+   "src": "misc/icon64.png"
   }
  ],
- "theme_color": "#CC00FF",
- "name": "Scarlath Sued Centro De Estética - Tour Virtual 360º",
- "display": "fullscreen",
- "background_color": "#CC00FF",
- "start_url": "index.htm"
+ "display": "fullscreen"
 }
